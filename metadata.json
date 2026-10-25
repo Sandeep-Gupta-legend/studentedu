@@ -1,0 +1,6 @@
+{
+  "name": "EduManage: Student Management System",
+  "description": "Full-stack Student Management System with Spring Boot, MySQL, Thymeleaf, and Bootstrap — featuring interactive live CRUD, analytics dashboard, and complete downloadable Java project source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
